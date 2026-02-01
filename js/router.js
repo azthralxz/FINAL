@@ -1,20 +1,20 @@
 const routes = {
-  "/AZ/": "/pages/q1.html",
-  "/AZ": "/pages/q1.html",
-  "/AZ/q1": "/pages/q1.html",
-  "/AZ/q2": "/pages/q2.html",
-  "/AZ/q3": "/pages/q3.html",
-  "/AZ/q4": "/pages/q4.html",
-  "/AZ/q5": "/pages/q5.html",
-  "/AZ/q6": "/pages/q6.html",
-  "/AZ/q7": "/pages/q7.html",
-  "/AZ/q8": "/pages/q8.html",
-  "/AZ/q9": "/pages/q9.html",
-  "/AZ/q10": "/pages/q10.html",
-  "/AZ/q11": "/pages/q11.html",
-  "/AZ/q12": "/pages/q12.html",
-  "/AZ/q13": "/pages/q13.html",
-  "/AZ/q14": "/pages/q14.html"
+  "/FINAL/": "/pages/q1.html",
+  "/FINAL": "/pages/q1.html",
+  "/FINAL/q1": "/pages/q1.html",
+  "/FINAL/q2": "/pages/q2.html",
+  "/FINAL/q3": "/pages/q3.html",
+  "/FINAL/q4": "/pages/q4.html",
+  "/FINAL/q5": "/pages/q5.html",
+  "/FINAL/q6": "/pages/q6.html",
+  "/FINAL/q7": "/pages/q7.html",
+  "/FINAL/q8": "/pages/q8.html",
+  "/FINAL/q9": "/pages/q9.html",
+  "/FINAL/q10": "/pages/q10.html",
+  "/FINAL/q11": "/pages/q11.html",
+  "/FINAL/q12": "/pages/q12.html",
+  "/FINAL/q13": "/pages/q13.html",
+  "/FINAL/q14": "/pages/q14.html"
 }
 
 async function router(){
